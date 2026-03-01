@@ -10,7 +10,9 @@
   </p>
   <p>
     <a href="mailto:vumanhtuan1010@gmail.com"><img src="https://img.shields.io/badge/Email-vumanhtuan1010%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="[LINK_LINKEDIN_CUA_BAN]"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://facebook.com/giuse.tuan.31">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
     <a href="tel:0327148188"><img src="https://img.shields.io/badge/Phone-0327.148.188-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" /></a>
   </p>
 </div>
